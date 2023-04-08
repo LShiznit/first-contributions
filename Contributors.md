@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Leopoldo Stankiewicz](https://github.com/LShiznit/)
 - [Shinya Nakayama](https://github.com/Shinya1192)
 - [Gregory Phiri](https://github.com/GreyWolf2020)
 - [Narendra Reddy](https://github.com/narendra098)
